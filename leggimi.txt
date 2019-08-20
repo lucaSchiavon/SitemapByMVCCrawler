@@ -1,0 +1,2 @@
+il progetto ClientcallSitemap è un progetto vbnet che chiama la api per ottenere una stringa di xml che successivamente viene salvata dal client in un file xml in root.
+il progetto MyPKMVCSitemap è un progetto MVC che permette di generare al volo una sitemap mediante la action CrawlSiteGeneratingSitemapOnFly oppure semplicemente restituire una stringa di testo con la sitemap dentro mediante la chiamata crawlsite
